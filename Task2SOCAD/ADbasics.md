@@ -115,7 +115,7 @@ GPO changes can take up to 2 hours to propagate. The `gpupdate /force` command c
 
 ```powershell
 PS C:\> gpupdate /force
-
+```
 
 
 # Active Directory Authentication and Forests
